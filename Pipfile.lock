@@ -172,11 +172,11 @@
         },
         "bitsandbytes": {
             "hashes": [
-                "sha256:1335667ab91513eb518bbe0faaf3d423ff16a3fdf084bda5240c7acee234413f",
-                "sha256:3ccecb3361e1078110d9259e2d9362d62868aca7c1c4db6f4cc79e5489fbd39a"
+                "sha256:b25228c27636367f222232ed4d1e1502eedd2064be215633734fb8ea0c1c65f4",
+                "sha256:b3f8e7e1e5f88d4813d10ebd4072034ba6a18eca7f0e255376f8320e5499032c"
             ],
             "index": "pypi",
-            "version": "==0.37.2"
+            "version": "==0.41.1"
         },
         "bokeh": {
             "hashes": [
